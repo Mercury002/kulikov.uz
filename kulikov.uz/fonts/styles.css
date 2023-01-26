@@ -1,0 +1,49 @@
+/*@fonts-face {*/
+/*  fonts-family: 'MazzardSoftH-Medium';*/
+/*  src: url(./MazzardSoftH-Medium.woff) format('woff');*/
+/*}*/
+
+@font-face {
+  font-family: 'Mazzard Soft M';
+  src: url(MazzardSoftH-Medium.woff);
+  src: local('./MazzardSoftH-Medium.woff'),
+  url('MazzardSoftH-Medium.woff') format('woff'),
+  url('MazzardSoftM-Medium.otf') format('opentype'),
+  url('MazzardSoftM-Medium.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mazzard Soft M';
+  src: url(MazzardSoftH-Medium.woff) format('woff');
+  /*src: local('MazzardSoftM-LightItalic'),*/
+  /*url('MazzardSoftM-LightItalic.woff2') format('woff2'),*/
+  /*url('MazzardSoftM-LightItalic.woff') format('woff'),*/
+  /*url('MazzardSoftM-LightItalic.ttf') format('truetype');*/
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mazzard Soft M';
+  src: url(MazzardSoftH-Bold.woff) format('woff');
+  /*src: local('MazzardSoftM-LightItalic'),*/
+  /*url('MazzardSoftM-LightItalic.woff2') format('woff2'),*/
+  /*url('MazzardSoftM-LightItalic.woff') format('woff'),*/
+  /*url('MazzardSoftM-LightItalic.ttf') format('truetype');*/
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mazzard Soft M';
+  src: url(MazzardSoftH-Black.woff) format('woff');
+  /*src: local('MazzardSoftM-LightItalic'),*/
+  /*url('MazzardSoftM-LightItalic.woff2') format('woff2'),*/
+  /*url('MazzardSoftM-LightItalic.woff') format('woff'),*/
+  /*url('MazzardSoftM-LightItalic.ttf') format('truetype');*/
+  font-weight: 500;
+  font-style: normal;
+}
+

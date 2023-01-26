@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Mazzard Soft M';
+    src: url('MazzardSoftM-Light.eot');
+    src: local('MazzardSoftM-Light'),
+        url('MazzardSoftM-Light.eot?#iefix') format('embedded-opentype'),
+        url('MazzardSoftM-Light.woff2') format('woff2'),
+        url('MazzardSoftM-Light.woff') format('woff'),
+        url('MazzardSoftM-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mazzard Soft M';
+    src: url('MazzardSoftM-LightItalic.eot');
+    src: local('MazzardSoftM-LightItalic'),
+        url('MazzardSoftM-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('MazzardSoftM-LightItalic.woff2') format('woff2'),
+        url('MazzardSoftM-LightItalic.woff') format('woff'),
+        url('MazzardSoftM-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
